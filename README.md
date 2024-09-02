@@ -1,1 +1,1 @@
-### Sometimes I code things (badly)
+### Sometimes I code things
